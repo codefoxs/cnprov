@@ -5,9 +5,11 @@ Stata commands for Chinese province name standardization.
 
 ```stata
 * Latest version
+cap ado uninstall cnprov
 net install cnprov, from("https://raw.githubusercontent.com/codefoxs/cnprov/main/") replace
 
 * Old version
+cap ado uninstall cnprov
 net install cnprov, from("https://raw.githubusercontent.com/codefoxs/cnprov/v#.#.#/") replace
 ```
 
