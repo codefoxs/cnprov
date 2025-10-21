@@ -1,0 +1,5 @@
+v 0.1.3
+d Author:
+d - Keynes, Zhihu
+d - CodeFox, GitHub
+p cnprov CNPROV - Stata commands for Chinese province names standardization
