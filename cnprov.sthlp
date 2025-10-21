@@ -4,7 +4,7 @@
 {vieweralsosee "[R] replace" "help replace"}{...}
 {vieweralsosee "" "--"}{...}
 {viewerjumpto "Syntax" "cnprov##syntax"}{...}
-{viewerjumpto "Standarization" "cnprov##standarization"}{...}
+{viewerjumpto "Standardization" "cnprov##standardization"}{...}
 {viewerjumpto "Example" "cnprov##example"}{...}
 {viewerjumpto "More information" "cnprov##addition"}{...}
 {title:Title}
@@ -34,7 +34,7 @@
 
       {it:province_string containing one of the strings in the right side can be converted to the left side correspondingly}
 
-{bf: 1 Name standarization}
+{bf: 1 Name standardization}
 
         "北京市"           <-   "北京|Beijing|beijing"
         "天津市"           <-   "天津|Tianjin|tianjin"
@@ -71,7 +71,7 @@
         "香港特别行政区"   <-   "香港|Hong Kong|xianggang|hongkong|hong kong|HongKong"
         "澳门特别行政区"   <-   "澳门|Macau|macau|aomen|Aomen"
 
-{bf: 2 Code standarization}
+{bf: 2 Code standardization}
 
         110000             <-   "北京|Beijing|beijing"
         120000             <-   "天津|Tianjin|tianjin"
