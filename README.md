@@ -1,6 +1,12 @@
 # cnprov
 Stata commands for Chinese province name standardization.
 
+## Install
+
+```stata
+net install cnprov, from("https://raw.githubusercontent.com/codefoxs/cnprov/main/") replace
+```
+
 ## Example
 
 ### Standardization
